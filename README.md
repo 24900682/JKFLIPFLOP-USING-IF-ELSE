@@ -1,3 +1,5 @@
+# NAME: ASWIN L
+# REGISTER NO: 212224230028
 # JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
@@ -56,9 +58,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: V. ANISHA 
+Developed by: ASWIN L
 
-RegisterNumber:212224040023
+Register Number: 212224230028
 */
 ![image](https://github.com/user-attachments/assets/272647df-1031-4999-8c37-5196518479a1)
 
